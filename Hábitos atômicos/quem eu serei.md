@@ -1,24 +1,15 @@
-# O que eu faço ao acordar?
+# O que eu farei ao acordar (Base)
 
-Acordei +
-
-Desligar o alarme +
-
-Verificar se tinha mensagem do ni =
-
-Se não tem, eu durmo. Se tem, eu respondo e tento levantar -
-
-Eu abro a cortina +
-
-Eu vou tomar banho +
-
-Vejo se tem algo para comer, caso não tenha:
-- as vezes preparo +
-- as vezes não -
-
-Faço alguma coisa de casa +
-
-VEI, O RESTO É TOTALMENTE INCONGRUENTE E SEM PADRÃO -
+- Acordo;
+- Desligo o alarme;
+- Abro a cortina;
+- Tomo banho;
+- Verifico se há mensagens do meu noivo;
+- Treino um pouco
+- Verifico se há algo para o café da manhã
+- Caso não tenha: preparo o café da manhã
+- Tomo café da manhã assistindo algo
+- Faço a limpeza na cozinha
 
 # Quem eu serei?
 

@@ -17,3 +17,11 @@
 seus hábitos são a incorporação de sua identidade.
 
 Quando você faz sua cama todos os dias, incorpora a identidade da organização. Quando escreve todos os dias, incorpora a identidade da criatividade. Quando treina todos os dias, incorpora a identidade de uma pessoa atlética.
+
+# Coisas engraçadas:
+
+"""
+Como o escritor Jason Zweig observou: “Obviamente, você nunca vai se exercitar sem um pensamento consciente. Mas como um cachorro salivando ao som de uma campainha, talvez você comece a sentir uma certa inquietação na hora do dia em que normalmente se exercita.”
+"""
+O filho da puta lançou na cara que estamos nos auto-tratando como cachorros, não que esteja errado.
+(Aliás, faltou contextualizar a piada do escritor Jason Zweig, é sobre um experimento feito com cachorros que interligavam uma campainha com receber comida)

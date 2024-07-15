@@ -1,3 +1,25 @@
+# O que eu faço ao acordar?
+
+Acordei +
+
+Desligar o alarme +
+
+Verificar se tinha mensagem do ni =
+
+Se não tem, eu durmo. Se tem, eu respondo e tento levantar -
+
+Eu abro a cortina +
+
+Eu vou tomar banho +
+
+Vejo se tem algo para comer, caso não tenha:
+- as vezes preparo +
+- as vezes não -
+
+Faço alguma coisa de casa +
+
+VEI, O RESTO É TOTALMENTE INCONGRUENTE E SEM PADRÃO -
+
 # Quem eu serei?
 
 "Mantenho o quarto limpo e organizado":

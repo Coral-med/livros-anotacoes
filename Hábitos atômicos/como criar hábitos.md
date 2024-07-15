@@ -1,6 +1,6 @@
 # Como criar hábitos
 
-# Etapa 1 da criação de Hábitos
+# Perguntas base
 
 Faça as seguintes perguntas:
 1. Como posso torná-la claro?
@@ -8,7 +8,7 @@ Faça as seguintes perguntas:
 3. Como posso torná-la fácil?
 4. Como posso torná-la satisfatório?
 
-# Etapa 2 da criação de hábitos
+# Etapa 1: Tornando-o claro
 
 A maneira simples de aplicar essa estratégia a seus hábitos é completar esta frase:
 "Eu irei [COMPORTAMENTO] às [HORA]em [LOCAL]."

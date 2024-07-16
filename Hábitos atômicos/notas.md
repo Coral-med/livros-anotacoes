@@ -18,6 +18,30 @@ seus hábitos são a incorporação de sua identidade.
 
 Quando você faz sua cama todos os dias, incorpora a identidade da organização. Quando escreve todos os dias, incorpora a identidade da criatividade. Quando treina todos os dias, incorpora a identidade de uma pessoa atlética.
 
+# Sobre ambientes
+
+Se quiser transformar o hábito em uma grande parte de sua vida, torne o estímulo grande parte de seu ambiente
+
+Certifique-se de que a melhor escolha seja sempre a mais óbvia
+
+Você pode modificar os espaços em que vive e trabalha para aumentar sua exposição a estímulos positivos e reduzir os negativos.
+
+Quando não conseguir ir para um ambiente totalmente novo, redefina ou reorganize o atual. Crie um espaço separado para trabalho, estudo, exercício, entretenimento e cocção. Um mantra que considero muito útil é: “Um espaço, um uso.”
+
+Evite misturar o contexto de um hábito com outro. Quando começa a misturar contextos, você começa a misturar hábitos — e os mais fáceis geralmente vencem
+
+# Como evitar maus hábitos (1° Lei invertida):
+
+- Se não consegue trabalhar, deixe o telefone em outro cômodo por algumas horas.
+- Se está continuamente sentindo que não é bom o suficiente, pare de seguir as contas de mídia social que provocam ciúme e inveja.
+- Se está perdendo muito tempo assistindo à televisão, remova-a do quarto.
+- Se está gastando muito dinheiro com produtos eletrônicos, pare de ler as resenhas dos últimos equipamentos de tecnologia.
+- Se estiver jogando videogame em excesso, desconecte o console e coloque-o em um armário após cada uso.
+
+Essa prática é uma inversão da 1ª Lei da Mudança de Comportamento. Ao invés de torná-lo claro, você pode torná-lo invisível. Muitas vezes me surpreendo com o quanto essas mudanças simples são eficazes.
+
+Toda essa lógica podem ser aplicadas a seus ambientes digitais
+
 # Coisas engraçadas:
 
 """

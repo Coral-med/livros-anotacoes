@@ -43,3 +43,14 @@ Como o escritor Jason Zweig observou: “Obviamente, você nunca vai se exercita
 """
 O filho da puta lançou na cara que estamos nos auto-tratando como cachorros, não que esteja errado.
 (Aliás, faltou contextualizar a piada do escritor Jason Zweig, é sobre um experimento feito com cachorros que interligavam uma campainha com receber comida)
+
+# De onde vêm os desejos
+
+- Economizar energia
+- Obter comida e água
+- Encontrar o amor e se reproduzir
+- Conectar e relacionar-se com os outros
+- Conectar e relacionar-se com os outros
+- Obter aceitação social e aprovação
+- Reduzir a incerteza
+- Alcançar status e prestígio

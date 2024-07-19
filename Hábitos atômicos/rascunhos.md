@@ -1,104 +1,236 @@
-# Rascunho da 3° regra
+## Anotações Gerais do Livro
 
-## A quantidade é o caminho para a qualidade
+### O Poder dos Hábitos Atômicos
+- **Hábitos são os juros compostos do autoaperfeiçoamento:** Pequenas melhorias diárias somam grandes resultados no longo prazo.
+- **Pequenas alterações parecem não fazer diferença até que você cruze um limite crítico:** Os resultados mais poderosos são tardios e requerem paciência.
+- **Um hábito atômico é um pequeno hábito que faz parte de um sistema maior.**
+- **Se quiser melhores resultados, esqueça a definição de metas. Concentre-se no seu sistema:**
+  - Você não sobe para atingir o nível de seus objetivos, desce ao nível de seus sistemas.
 
-"É fácil ficar preso tentando encontrar o plano ideal para a mudança: a maneira mais rápida de perder peso, o melhor programa para ganhar músculos. Estamos tão focados em descobrir a melhor abordagem que nunca chegamos a agir."
+### Por Que Seus Hábitos Moldam Sua Identidade
+- **Seus hábitos são a incorporação de sua identidade:**
+  - Fazer sua cama todos os dias incorpora a identidade da organização.
+  - Escrever todos os dias incorpora a identidade da criatividade.
+  - Treinar todos os dias incorpora a identidade de uma pessoa atlética.
 
-"Refiro-me a isso como a diferença entre estar em movimento e agir."
+### Sobre Ambientes
+- **Certifique-se de que a melhor escolha seja sempre a mais óbvia:**
+  - Modifique os espaços para aumentar a exposição a estímulos positivos e reduzir os negativos.
+  - Redefina ou reorganize os espaços atuais para criar áreas específicas para trabalho, estudo, exercício, entretenimento e cocção.
+  - “Um espaço, um uso” é um mantra útil.
 
-**Movimento:**
-"Quando você está em movimento, está planejando, criando estratégias e aprendendo"
+### Expectativas e Desejos
+- **A expectativa de uma experiência recompensadora nos motiva mais do que a experiência em si.**
+- **De onde vêm os desejos:**
+  - Economizar energia
+  - Obter comida e água
+  - Encontrar o amor e se reproduzir
+  - Conectar e relacionar-se com os outros
+  - Obter aceitação social e aprovação
+  - Reduzir a incerteza
+  - Alcançar status e prestígio
 
-**Ação:**
-"A ação, por outro lado, é o tipo de comportamento que produzirá um resultado"
+### Reformulando Seus Hábitos
+- **Reformular hábitos para destacar benefícios em vez de inconvenientes ajuda a reprogramar sua mente:**
+  - Em vez de “preciso correr de manhã”, diga “é hora de ganhar resistência e velocidade”.
+  - Viver aquém das possibilidades atuais aumenta suas possibilidades futuras.
 
-**Exemplo:**
-"Se eu descrever 20 ideias para artigos que quero escrever, isso é movimento. Se eu realmente me sentar e escrever um artigo, isso é ação. Se eu procurar um plano de dieta melhor e ler alguns livros sobre o assunto, isso é movimento. Se eu realmente comer uma refeição saudável, é ação."
+### A Quantidade é o Caminho para a Qualidade
+- **Movimento vs. Ação:**
+  - Movimento: Planejamento, estratégias, aprendizagem.
+  - Ação: Comportamento que produz resultados.
+  - Exemplo: Descrever ideias para artigos é movimento, escrever um artigo é ação.
+- **Por que fazemos mais "Movimento" do que "Ação"?**
+  - Movimento permite sentir progresso sem risco de fracasso.
+- **Para dominar um hábito:**
+  - Comece com a repetição, não a perfeição.
+  - Pratique o hábito.
 
-**Por que fazemos mais "Movimento" do que "Ação"?**
-"Se o movimento não leva a resultados, por que fazemos isso? Às vezes fazemos porque realmente precisamos planejar ou aprender mais. Mas muitas vezes o fazemos porque o movimento nos permite sentir que estamos progredindo sem correr o risco de fracassar."
+### Automaticidade
+- **Automaticidade é a capacidade de realizar um comportamento sem pensar em cada passo:**
+  - Ocorre quando a mente não consciente assume o controle.
+- **Hábitos se formam com base na frequência, não no tempo:**
+  - Pergunta certa: “Quantas vezes são necessárias para formar um novo hábito?”
 
-"Não é bom falhar ou ser julgado publicamente, por isso tendemos a evitar situações em que isso possa acontecer."
+### A Lei do Mínimo Esforço
+- **Natureza humana segue a Lei do Mínimo Esforço:**
+  - Pessoas preferem a opção que requer menos trabalho.
+- **Torne bons hábitos mais convenientes e maus hábitos mais difíceis:**
+  - Prepare seu ambiente para facilitar ações desejadas e dificultar ações indesejadas.
 
-"Se quer dominar um hábito, a chave é começar com a repetição, não a perfeição. Você não precisa mapear todos os recursos de um novo hábito. Só é preciso praticá-lo. Essa é a primeira conclusão da 3ª Lei: você só precisa repetir."
+### Reinicializar o Ambiente
+- **Reinicializar o ambiente:**
+  - Organize espaços após usá-los.
+  - Prepare ambientes para facilitar ações futuras.
+  - Exemplo: Prepare utensílios para o café da manhã na noite anterior.
 
-## A automaticidade
+### Como Parar de Procrastinar
+- **Regra dos Dois Minutos:**
+  - Quando iniciar um hábito, ele deve levar menos de dois minutos.
+  - Simplifique hábitos complexos para começá-los facilmente.
+- **Exemplos:**
+  - “Ler antes de dormir” se torna “Ler uma página”.
+  - “Fazer 30 minutos de ioga” se torna “Pegar meu tapete de yoga”.
 
-"A automaticidade é a capacidade de realizar um comportamento sem pensar em cada passo, o que ocorre quando a mente não consciente assume o controle."
+### Morando com Outras Pessoas
+- **Desafios de manter um ambiente organizado:**
+  - Compartilhar espaço com outras pessoas pode dificultar a manutenção da ordem.
+- **Estratégias para manter o ambiente organizado:**
+  - Crie uma linha de hábitos para o ambiente específico em que você se mantém (ex.: cozinha).
+  - Limpe uma área por dia para evitar frustração.
+  - Anote todas as áreas que precisam de limpeza e marque as já limpas.
+  - Divida a limpeza de móveis em partes menores para evitar desmotivação.
+- **Exemplo:**
+  - Se tem três áreas em um armário, limpe uma área por dia.
+  - Divida um móvel grande em partes menores ou etapas para facilitar a limpeza.
 
-"os hábitos se formam com base na frequência, não no tempo."
+---
 
-"Uma das perguntas mais comuns é: “Quanto tempo é preciso para construir um novo hábito?” Mas o que as pessoas realmente deveriam estar perguntando é: “Quantas vezes são necessárias para formar um novo hábito?”"
+## Como Criar Bons Hábitos
 
-Você poderia fazer algo 2 vezes em 30 dias ou 200 vezes. É a frequência que faz a diferença.
+### Perguntas Base
+1. Como posso tornar o hábito claro?
+2. Como posso torná-lo atraente?
+3. Como posso torná-lo fácil?
+4. Como posso torná-lo satisfatório?
 
-## A lei do Mínimo esforço
+### 1ª Lei - Torne-o Claro
 
-"É da natureza humana seguir a Lei do Mínimo Esforço, que afirma que, ao decidir entre duas opções semelhantes, as pessoas naturalmente serão atraídas pela opção que requer o mínimo de trabalho."
+#### Etapa 1: Avaliação dos Hábitos
+- **Anote todos seus hábitos diários para se conscientizar deles:**
+  - Exemplo: "O que faço ao acordar?" Acordar, desligar o alarme, abrir a cortina, verificar mensagens, escovar os dentes.
+- **Avalie e pontue os hábitos:**
+  - Negativos (-)
+  - Positivos (+)
+  - Neutros (=)
 
-"quanto menos energia um hábito requerer, maior é a probabilidade de ocorrer."
+#### Etapa 2: Intenções de Implementação
+- **Use a frase:**
+  - "Eu irei [COMPORTAMENTO] às [HORA] em [LOCAL]."
+  - Exemplo: “Durante a próxima semana, vou participar de pelo menos 20 minutos de exercícios vigorosos em [DIA] às [HORAS] em [LOCAL].”
 
-"Você não quer o hábito em si. O que realmente quer é o resultado que ele proporciona. Quanto mais difícil for o hábito, mais resistência haverá entre você e seu estado final desejado."
+#### Etapa 3: Redesenhe Seu Ambiente
+- **Torne os estímulos dos bons hábitos claros e visíveis:**
+  - Exemplo: Ir para academia para se exercitar ou para uma biblioteca para estudar.
+  - Redefina ou reorganize espaços atuais se não puder ir para um ambiente novo.
+  - Crie um espaço separado para trabalho, estudo, exercício, entretenimento e cocção.
 
-"Se puder tornar seus bons hábitos mais convenientes, será mais provável que os siga."
+### Empacotamento de Hábitos
+- **Associe um hábito necessário a um desejado:**
+  - "Depois de [HÁBITO QUE PRECISO], eu vou [HÁBITO QUE QUERO]."
+  - Exemplo: "Depois que eu fizer dez polichinelos, vou checar o Facebook."
 
-"Quanto menos resistência enfrentar, mais fácil será para seu eu mais forte emergir. A ideia por trás de torne-o fácil não é apenas fazer coisas fáceis. A ideia é tornar o mais fácil possível no momento de fazer as coisas que compensam em longo prazo."
+### Colocando a Associação em Prática
+- **Adapte a estratégia para qualquer finalidade:**
+  - Exemplo: Três respirações profundas, sorrir, acariciar o cachorro.
+  - Crie uma rotina curta antes de fazer algo que você ama para associar a felicidade ao hábito.
 
-## Como aplicar a lei do mínimo esforço na sua vida?
+### Grupos Sociais
+- **Imitamos hábitos de três grupos:**
+  - Família e amigos (os próximos)
+  - A maioria (a tribo)
+  - Aqueles com status e prestígio (os poderosos)
+- **Junte-se a uma cultura onde seu comportamento desejado é o padrão e você tem algo em comum com o grupo.**
 
-"Já discutimos o design de ambiente como um método para tornar as sugestões mais óbvias, mas você também pode otimizar seu ambiente para facilitar as ações. Por exemplo, ao decidir onde praticar um novo hábito, é melhor escolher um lugar que já esteja no caminho da sua rotina."
+### Quantidade é o Caminho para a Qualidade
 
-"quando removemos os pontos de atrito que minam nosso tempo e energia, podemos conquistar mais com menos esforço."
+- **Movimento vs. Ação:**
+  - **Movimento:** Planejamento, criação de estratégias, aprendizado.
+  - **Ação:** Comportamento que produz resultado.
+  - Exemplo: Descrever ideias é movimento; escrever um artigo é ação.
 
-## Reinicializar o ambiente
+- **Por que fazemos mais "Movimento" do que "Ação"?**
+  - O movimento nos permite sentir progresso sem o risco de fracasso.
+  - Para dominar um hábito, a chave é a repetição, não a perfeição.
 
-Um conceito útil é “reinicializar o ambiente”, por exemplo, quando termina de assistir à televisão, ele coloca o controle remoto de volta no suporte, arruma as almofadas no sofá e dobra o cobertor. Quando sai do carro, ele joga fora todo o lixo.
+### Automaticidade
 
-"Ao fazer isso todos os dias em todos os cômodos, as coisas sempre estão no lugar"
+- **Automaticidade é a capacidade de realizar um comportamento sem pensar em cada passo.**
+- **Os hábitos se formam com base na frequência, não no tempo.**
+  - Pergunta mais importante: “Quantas vezes são necessárias para formar um novo hábito?”
 
-"Sempre que organiza um espaço para um propósito específico, você o prepara para facilitar a próxima ação."
+### Lei do Mínimo Esforço
 
-"Há muitas maneiras de preparar seu ambiente para que ele esteja pronto para o uso imediato. Se quiser preparar um café da manhã saudável, coloque a frigideira no fogão e arrume os pratos e utensílios necessários na noite anterior. Quando acordar, fazer o café da manhã será fácil."
-- Quer desenhar mais? Coloque seus lápis, canetas, cadernos e ferramentas de desenho em cima de sua mesa, com fácil acesso.
-- Quer se exercitar? Prepare suas roupas de ginástica, sapatos, bolsa de ginástica e garrafa de água com antecedência.
-- Quer melhorar sua dieta? Pique uma boa quantidade de frutas e legumes nos fins de semana e guarde-os em recipientes, para que você tenha fácil acesso a produtos saudáveis e opções prontas para comer durante a semana.
+- **É da natureza humana seguir a Lei do Mínimo Esforço.**
+  - Quanto menos energia um hábito requerer, maior é a probabilidade de ocorrer.
+  - Facilite os bons hábitos tornando-os mais convenientes.
+  - Reduza a resistência para que o eu mais forte emerja.
 
-## Invertendo esses conceitos
+### Aplicação da Lei do Mínimo Esforço
 
-"Você também pode inverter esse princípio e preparar o ambiente para dificultar os comportamentos ruins. Se estiver assistindo à televisão demais, por exemplo, desconecte-a após cada uso. Apenas conecte-a novamente se puder dizer em voz alta o nome do programa a que deseja assistir. Essa configuração cria a resistência suficiente para evitar assistir à televisão sem pensar."
+- **Otimize seu ambiente para facilitar as ações.**
+  - Exemplo: Praticar um novo hábito em um lugar já no caminho da sua rotina.
+  - Remover pontos de atrito economiza tempo e energia.
 
-"Se isso não acontecer, você pode dar um passo adiante. Desconecte a televisão e tire as baterias do controle remoto após cada uso, para que ligá-la novamente exija dez segundos extras."
+### Reinicializar o Ambiente
 
-"Sempre que possível, deixo meu telefone em uma sala diferente até o almoço. Quando está bem do meu lado, acabo checando-o a manhã toda sem motivo algum. Mas, quando está em outra sala, raramente penso nele. E a resistência é grande o suficiente para que eu não o pegue sem um motivo. Como resultado, tenho de três a quatro horas todas as manhãs em que posso trabalhar sem interrupção."
+- **Prepare seu ambiente para facilitar a próxima ação.**
+  - Exemplo: Após assistir à TV, coloque o controle remoto no suporte, arrume as almofadas, dobre o cobertor.
+  - Organização diária mantém as coisas no lugar e prontas para uso.
 
-## Morando com outras pessoas
+- **Exemplos:**
+  - Para desenhar mais: Coloque lápis, canetas e cadernos em cima da mesa.
+  - Para se exercitar: Prepare roupas de ginástica e garrafa de água com antecedência.
+  - Para melhorar a dieta: Pique frutas e legumes no fim de semana para fácil acesso durante a semana.
 
-Esse ponto do livro funciona bem com ambientes pessoais, porém eu moro com mais 4 familiares e um animal, então é irrealista sempre manter as coisas no lugar, pois isso depende da colaboração geral.
+### Morando com Outras Pessoas
+- **Desafios:** Manter a organização pode ser difícil quando se mora com outras pessoas.
+- **Estratégias:**
+  - **Crie uma linha de hábitos para o ambiente que mais utiliza:** Se concentre em um espaço específico, como a cozinha.
+  - **Limpeza diária dividida por áreas:** Em vez de limpar tudo de uma vez, limpe uma área por dia.
+    - Exemplo: Limpe uma prateleira ou uma porta de armário por dia.
+  - **Anote as áreas que precisam de limpeza:** Marque quais já foram limpas para não repetir antes de completar todas.
+  - **Divida móveis maiores em partes:** Para evitar a desmotivação, divida a limpeza de móveis maiores em partes menores.
+- **Objetivo:** Iniciar com pequenas tarefas para criar um gatilho de continuidade, mantendo uma rotina diária de limpeza.
 
-Dificilmente você vive em uma casa somente sua, então o ideal é criar uma linha de hábitos unicamente para o ambiente ao qual irá se manter (No meu caso, a cozinha).
+### Regra dos Dois Minutos
 
-Para que não seja trabalhoso fazer toda limpeza e re-organização do ambiente e se frustrar pois após 1 semana tudo voltou a estar como era antes, eu recomendo limpar 1 área por dia.
+- **Quando inicia um hábito, ele deve levar menos de dois minutos para ser executado.**
+  - Exemplo: "Ler antes de dormir" se torna "Ler uma página."
+  - **A ideia é tornar os hábitos fáceis de começar.**
+  - Estabeleça o hábito antes de melhorá-lo.
 
-Se você tem 3 áreas em um armário, limpe uma área em um dia e a outra área em outro, assim você evita gastar energia limpando o armário inteiro, essa estratégia pode escalonar mais com coisas como "Hoje limparei as portas de uma parte do armário" ou "hoje limparei a prateleira 2 do armário".
+- **Praticar por dois minutos e depois parar:**
+  - Exemplo: Correr, mas parar após dois minutos. Meditar, mas parar após dois minutos.
+  - **Quase todo objetivo maior pode ser transformado em um comportamento de dois minutos.**
 
-O natural é que você comece a fazer mais diariamente, iniciar uma atividade fácil é um bom gatilho para continuar ela, a ideia é somente sempre manter essa limpeza diária, por isso, quanto mais você divide as etapas de limpeza melhor.
+---
 
-Outra regra a se seguir nesse modelo de limpeza, é anotar todas as coisas que precisam de limpeza e ir marcando quais limpou para nunca repetir elas antes de limpar todas, normalmente as que menos gostamos ficam no final da lista, pegue esse móvel e divida ele em mais partes ou em mais etapas caso esteja se sentindo desmotivado a limpar.
+## Como Parar Com Maus Hábitos
 
-## Como parar de procrastinar
+### Evitando Maus Hábitos (1ª Lei Invertida)
+- **Faça maus hábitos invisíveis e difíceis de acessar:**
+  - Exemplo: Deixe o telefone em outro cômodo para evitar distrações.
+  - Pare de seguir contas de mídia social que provocam ciúme e inveja.
+  - Remova a televisão do quarto para evitar assistir demais.
+  - Pare de ler resenhas de novos equipamentos tecnológicos para evitar compras impulsivas.
+  - Desconecte e guarde o console de videogame após o uso.
 
+### Aplicando a Lógica a Ambientes Digitais
+- **Aplique a mesma lógica de evitar maus hábitos ao seu ambiente digital:**
+  - Exemplo: Use aplicativos que bloqueiam sites de distração durante o trabalho.
+  - Organize seu desktop e pastas para minimizar distrações.
 
+### Invertendo a 2ª Lei (Tornando eles desinteressantes)
+- **Reestruture sua atitude mental:**
+  - Ressalte, escreva e repita na sua mente os benefícios de evitar seus maus hábitos.
+  - Ressalte, escreva e repita na sua mente os malefícios de continuar seus maus hábitos.
+  - Eu recomendo algum aplicativo ou coisa semelhante que lhe notifique todas as manhãs dessas informações, para que pareça rídiculo voltar ao mal hábito.
 
-# Resumo prático
+### Invertendo a 3ª Lei (Dificultando Maus Hábitos)
 
-- A forma mais eficaz de aprender é praticar, não planejar. Concentre-se em agir, não em estar em movimento.
-- A formação do hábito é o processo pelo qual um comportamento se torna progressivamente mais automático através da repetição.
-- O período de tempo em que você está realizando um hábito não é tão importante quanto o número de vezes que o executou.
+- **Crie resistência suficiente para evitar maus hábitos.**
+  - Exemplo: Desconectar a televisão e tirar as baterias do controle remoto após o uso.
+  - Deixar o telefone em uma sala diferente até o almoço para evitar verificações desnecessárias.
 
-"Há muitas maneiras de preparar seu ambiente para que ele esteja pronto para o uso imediato. Se quiser preparar um café da manhã saudável, coloque a frigideira no fogão e arrume os pratos e utensílios necessários na noite anterior."
+- **Dispositivo de compromisso:**
+  - Exemplo: Comprar alimentos em embalagens individuais para evitar excessos.
+  - Pagar antecipadamente por uma sessão de yoga para garantir presença.
 
-- O comportamento humano segue a lei do mínimo esforço. Naturalmente, somos atraídos pela opção que requer o mínimo de trabalho.
-- Crie um ambiente em que fazer a coisa certa seja o mais fácil possível.
-- Reduza a resistência associada a bons comportamentos. Quando a resistência é baixa, os hábitos são fáceis.
-- Aumente a resistência associada a maus comportamentos. Quando a resistência é alta, os hábitos são difíceis.
-- Prepare seu ambiente para facilitar as ações futuras.
+- **Automatize suas ações:**
+  - Exemplo: Definir seu computador para desligar automaticamente após um período de inatividade.
+  - Usar apps de bloqueio de sites para evitar procrastinação.
+
+- **Aumente a fricção de más decisões:**
+  - Exemplo: Peça a um amigo para alterar a senha das redes sociais e só liberar após determinado horário.
+  - Desative a renovação automática de assinaturas para rever a necessidade de continuação.

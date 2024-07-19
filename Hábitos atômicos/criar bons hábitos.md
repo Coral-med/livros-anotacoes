@@ -15,7 +15,6 @@
   - Negativos (-)
   - Positivos (+)
   - Neutros (=)
-- Isso será útil para decidir quais hábitos manter, retirar ou mover da sua rotina.
 
 #### Etapa 2: Intenções de Implementação
 - **Use a frase:**
@@ -44,3 +43,65 @@
   - A maioria (a tribo)
   - Aqueles com status e prestígio (os poderosos)
 - **Junte-se a uma cultura onde seu comportamento desejado é o padrão e você tem algo em comum com o grupo.**
+
+### Quantidade é o Caminho para a Qualidade
+
+- **Movimento vs. Ação:**
+  - **Movimento:** Planejamento, criação de estratégias, aprendizado.
+  - **Ação:** Comportamento que produz resultado.
+  - Exemplo: Descrever ideias é movimento; escrever um artigo é ação.
+
+- **Por que fazemos mais "Movimento" do que "Ação"?**
+  - O movimento nos permite sentir progresso sem o risco de fracasso.
+  - Para dominar um hábito, a chave é a repetição, não a perfeição.
+
+### Automaticidade
+
+- **Automaticidade é a capacidade de realizar um comportamento sem pensar em cada passo.**
+- **Os hábitos se formam com base na frequência, não no tempo.**
+  - Pergunta mais importante: “Quantas vezes são necessárias para formar um novo hábito?”
+
+### Lei do Mínimo Esforço
+
+- **É da natureza humana seguir a Lei do Mínimo Esforço.**
+  - Quanto menos energia um hábito requerer, maior é a probabilidade de ocorrer.
+  - Facilite os bons hábitos tornando-os mais convenientes.
+  - Reduza a resistência para que o eu mais forte emerja.
+
+### Aplicação da Lei do Mínimo Esforço
+
+- **Otimize seu ambiente para facilitar as ações.**
+  - Exemplo: Praticar um novo hábito em um lugar já no caminho da sua rotina.
+  - Remover pontos de atrito economiza tempo e energia.
+
+### Reinicializar o Ambiente
+
+- **Prepare seu ambiente para facilitar a próxima ação.**
+  - Exemplo: Após assistir à TV, coloque o controle remoto no suporte, arrume as almofadas, dobre o cobertor.
+  - Organização diária mantém as coisas no lugar e prontas para uso.
+
+- **Exemplos:**
+  - Para desenhar mais: Coloque lápis, canetas e cadernos em cima da mesa.
+  - Para se exercitar: Prepare roupas de ginástica e garrafa de água com antecedência.
+  - Para melhorar a dieta: Pique frutas e legumes no fim de semana para fácil acesso durante a semana.
+
+### Morando com Outras Pessoas
+- **Desafios:** Manter a organização pode ser difícil quando se mora com outras pessoas.
+- **Estratégias:**
+  - **Crie uma linha de hábitos para o ambiente que mais utiliza:** Se concentre em um espaço específico, como a cozinha.
+  - **Limpeza diária dividida por áreas:** Em vez de limpar tudo de uma vez, limpe uma área por dia.
+    - Exemplo: Limpe uma prateleira ou uma porta de armário por dia.
+  - **Anote as áreas que precisam de limpeza:** Marque quais já foram limpas para não repetir antes de completar todas.
+  - **Divida móveis maiores em partes:** Para evitar a desmotivação, divida a limpeza de móveis maiores em partes menores.
+- **Objetivo:** Iniciar com pequenas tarefas para criar um gatilho de continuidade, mantendo uma rotina diária de limpeza.
+
+### Regra dos Dois Minutos
+
+- **Quando inicia um hábito, ele deve levar menos de dois minutos para ser executado.**
+  - Exemplo: "Ler antes de dormir" se torna "Ler uma página."
+  - **A ideia é tornar os hábitos fáceis de começar.**
+  - Estabeleça o hábito antes de melhorá-lo.
+
+- **Praticar por dois minutos e depois parar:**
+  - Exemplo: Correr, mas parar após dois minutos. Meditar, mas parar após dois minutos.
+  - **Quase todo objetivo maior pode ser transformado em um comportamento de dois minutos.**

@@ -15,6 +15,4 @@ O repositório está organizado da seguinte forma:
 
 ## Nota
 
-Todos os livros mencionados neste repositório foram adquiridos no acervo digital "Z-library". Se estiver interessado, procure o fórum deles no Reddit.
-
-Boa leitura!
+Todos os livros mencionados neste repositório estão no repositório "livros-arquivos".

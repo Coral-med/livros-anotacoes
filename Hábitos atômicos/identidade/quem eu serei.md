@@ -5,8 +5,10 @@
 - Dobro minhas roupas;
 - Não acumulo coisas no quarto;
 
-"Faço a barba":
-- Tiro 3 pelos da barba por dia na pinça
+"Cuido da aparência":
+- Faço as unhas todo sábado;
+- Cuido do meu cabelo diariamente;
+- Tiro 3 pelos da barba por dia na pinça.
 
 "Faço exercícios diariamente":
 - Todo dia eu faço exercícios;
@@ -14,13 +16,13 @@
 
 "Sou saudável":
 - Durmo em horários bem definidos;
-- Me alimento em horários determinados.
+- Me alimento bem.
 
 "Sou estudiosa":
 - Todo dia eu estudo 2 horas por dia.
 
 "Gosto de desenhos e jogos":
-- Todo dia eu passo ao menos 2 horas: Desenhando, jogando, no GameMaker.
+- Todo dia eu passo ao menos 2 horas: Desenhando ou no GameMaker.
 
 "Sou bem controlada financeiramente"
 - Anoto todos meus gastos;

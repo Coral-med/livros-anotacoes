@@ -1,107 +1,63 @@
-## Como Criar Bons Hábitos
+## A 1ª Lei: Torne-o Claro
 
-### Perguntas Base
-1. Como posso tornar o hábito claro?
-2. Como posso torná-lo atraente?
-3. Como posso torná-lo fácil?
-4. Como posso torná-lo satisfatório?
+### 1.1 Preencha a Avaliação dos Hábitos
 
-### 1ª Lei - Torne-o Claro
+Anote seus hábitos diários de maneira detalhada para se tornar consciente deles. Por exemplo: "Acordo, desligo o despertador, olho meu celular, escovo os dentes, como." Essa lista ajuda a identificar quais hábitos são bons, ruins ou neutros, permitindo uma análise mais precisa para ajustes.
 
-#### Etapa 1: Avaliação dos Hábitos
-- **Anote todos seus hábitos diários para se conscientizar deles:**
-  - Exemplo: "O que faço ao acordar?" Acordar, desligar o alarme, abrir a cortina, verificar mensagens, escovar os dentes.
-- **Avalie e pontue os hábitos:**
-  - Negativos (-)
-  - Positivos (+)
-  - Neutros (=)
+### 1.2 Use as Intenções de Implementação
 
-#### Etapa 2: Intenções de Implementação
-- **Use a frase:**
-  - "Eu irei [COMPORTAMENTO] às [HORA] em [LOCAL]."
-  - Exemplo: “Durante a próxima semana, vou participar de pelo menos 20 minutos de exercícios vigorosos em [DIA] às [HORAS] em [LOCAL].”
+Estabeleça um plano claro e específico para quando e onde você realizará um novo comportamento. Em vez de simplesmente decidir começar a se exercitar, defina: “Eu irei correr às 7h da manhã no parque perto de casa.” Isso cria um roteiro claro e elimina a ambiguidade, facilitando a adoção do novo hábito.
 
-#### Etapa 3: Redesenhe Seu Ambiente
-- **Torne os estímulos dos bons hábitos claros e visíveis:**
-  - Exemplo: Ir para academia para se exercitar ou para uma biblioteca para estudar.
-  - Redefina ou reorganize espaços atuais se não puder ir para um ambiente novo.
-  - Crie um espaço separado para trabalho, estudo, exercício, entretenimento e cocção.
+### 1.3 Redesenhe Seu Ambiente
 
-### Empacotamento de Hábitos
-- **Associe um hábito necessário a um desejado:**
-  - "Depois de [HÁBITO QUE PRECISO], eu vou [HÁBITO QUE QUERO]."
-  - Exemplo: "Depois que eu fizer dez polichinelos, vou checar o Facebook."
+Organize seu ambiente para que os estímulos que favorecem bons hábitos sejam mais visíveis e acessíveis. Por exemplo, se você quer comer mais frutas, deixe uma tigela de frutas na mesa da cozinha em vez de guardá-las no armário. Isso torna o hábito desejado mais evidente e fácil de lembrar.
 
-### Colocando a Associação em Prática
-- **Adapte a estratégia para qualquer finalidade:**
-  - Exemplo: Três respirações profundas, sorrir, acariciar o cachorro.
-  - Crie uma rotina curta antes de fazer algo que você ama para associar a felicidade ao hábito.
+## A 2ª Lei: Torne-o Atraente
 
-### Grupos Sociais
-- **Imitamos hábitos de três grupos:**
-  - Família e amigos (os próximos)
-  - A maioria (a tribo)
-  - Aqueles com status e prestígio (os poderosos)
-- **Junte-se a uma cultura onde seu comportamento desejado é o padrão e você tem algo em comum com o grupo.**
+### 2.1 Use o Empacotamento de Tentações
 
-### Quantidade é o Caminho para a Qualidade
+Associe uma ação que você precisa fazer com algo que você deseja fazer. A técnica de "empacotamento de tentações" se resume a aplicar a seguinte regra verbal para si próprio: “Depois de [HÁBITO QUE PRECISO], eu vou [HÁBITO QUE QUERO].” Por exemplo, se você precisa fazer exercícios, associe isso a assistir sua série favorita: “Depois de fazer minha rotina de exercícios, eu vou assistir minha série favorita.”
 
-- **Movimento vs. Ação:**
-  - **Movimento:** Planejamento, criação de estratégias, aprendizado.
-  - **Ação:** Comportamento que produz resultado.
-  - Exemplo: Descrever ideias é movimento; escrever um artigo é ação.
+### 2.2 Junte-se a uma Cultura em que Seu Comportamento Desejado Seja o Padrão
 
-- **Por que fazemos mais "Movimento" do que "Ação"?**
-  - O movimento nos permite sentir progresso sem o risco de fracasso.
-  - Para dominar um hábito, a chave é a repetição, não a perfeição.
+Envolva-se com um grupo que valorize o comportamento que você deseja adotar. Se você quer melhorar seu condicionamento físico, participe de um grupo de corrida ou uma academia onde a atividade física é o padrão. Estar cercado por pessoas com hábitos semelhantes facilita a adoção dos mesmos comportamentos.
 
-### Automaticidade
+### 2.3 Crie um Ritual de Motivação
 
-- **Automaticidade é a capacidade de realizar um comportamento sem pensar em cada passo.**
-- **Os hábitos se formam com base na frequência, não no tempo.**
-  - Pergunta mais importante: “Quantas vezes são necessárias para formar um novo hábito?”
+Desenvolva um ritual prazeroso que você realiza imediatamente antes de começar um hábito desafiador. Por exemplo, se você tem dificuldade em iniciar sessões de estudo, pode criar um ritual que envolva uma xícara de café ou uma playlist específica que você só usa durante o estudo. Isso cria uma associação positiva com a atividade desafiadora.
 
-### Lei do Mínimo Esforço
+## A 3ª Lei: Torne-o Fácil
 
-- **É da natureza humana seguir a Lei do Mínimo Esforço.**
-  - Quanto menos energia um hábito requerer, maior é a probabilidade de ocorrer.
-  - Facilite os bons hábitos tornando-os mais convenientes.
-  - Reduza a resistência para que o eu mais forte emerja.
+### 3.1 Reduza a Resistência
 
-### Aplicação da Lei do Mínimo Esforço
+Simplifique a execução do seu hábito reduzindo o número de etapas necessárias. Se você quer começar a meditar, coloque o seu tapete de meditação ao lado da cama para que esteja pronto para uso assim que acordar, eliminando a necessidade de procurar o tapete e preparar o espaço.
 
-- **Otimize seu ambiente para facilitar as ações.**
-  - Exemplo: Praticar um novo hábito em um lugar já no caminho da sua rotina.
-  - Remover pontos de atrito economiza tempo e energia.
+### 3.2 Adeque o Ambiente
 
-### Reinicializar o Ambiente
+Configure seu ambiente para facilitar a adoção dos hábitos desejados. Se você quer ler mais, coloque livros ao alcance, como na mesa de cabeceira, e crie um espaço agradável para a leitura. Um ambiente bem organizado facilita a prática dos bons hábitos.
 
-- **Prepare seu ambiente para facilitar a próxima ação.**
-  - Exemplo: Após assistir à TV, coloque o controle remoto no suporte, arrume as almofadas, dobre o cobertor.
-  - Organização diária mantém as coisas no lugar e prontas para uso.
+### 3.3 Use a Regra dos Dois Minutos
 
-- **Exemplos:**
-  - Para desenhar mais: Coloque lápis, canetas e cadernos em cima da mesa.
-  - Para se exercitar: Prepare roupas de ginástica e garrafa de água com antecedência.
-  - Para melhorar a dieta: Pique frutas e legumes no fim de semana para fácil acesso durante a semana.
+Transforme o hábito desejado em algo que possa ser feito em dois minutos ou menos. Se seu objetivo é começar a correr, comece apenas vestindo roupas de corrida e saindo para uma caminhada rápida. Antes de aperfeiçoar um hábito, você deve criá-lo; fazer com que o hábito seja automático facilitará o progresso e a manutenção.
 
-### Morando com Outras Pessoas
-- **Desafios:** Manter a organização pode ser difícil quando se mora com outras pessoas.
-- **Estratégias:**
-  - **Crie uma linha de hábitos para o ambiente que mais utiliza:** Se concentre em um espaço específico, como a cozinha.
-  - **Limpeza diária dividida por áreas:** Em vez de limpar tudo de uma vez, limpe uma área por dia.
-    - Exemplo: Limpe uma prateleira ou uma porta de armário por dia.
-  - **Anote as áreas que precisam de limpeza:** Marque quais já foram limpas para não repetir antes de completar todas.
-  - **Divida móveis maiores em partes:** Para evitar a desmotivação, divida a limpeza de móveis maiores em partes menores.
-- **Objetivo:** Iniciar com pequenas tarefas para criar um gatilho de continuidade, mantendo uma rotina diária de limpeza.
+### 3.4 Automatize Seus Hábitos
 
-### Regra dos Dois Minutos
+Utilize tecnologias e soluções que facilitem a prática do hábito. Exemplos incluem comprar uma cortina blackout para melhorar o sono ou cancelar assinaturas de e-mails para ajudar na sua produtividade. Invista em tecnologias que apoiem e reforcem seus hábitos desejados.
 
-- **Quando inicia um hábito, ele deve levar menos de dois minutos para ser executado.**
-  - Exemplo: "Ler antes de dormir" se torna "Ler uma página."
-  - **A ideia é tornar os hábitos fáceis de começar.**
-  - Estabeleça o hábito antes de melhorá-lo.
+## A 4ª Lei: Torne-o Satisfatório
 
-- **Praticar por dois minutos e depois parar:**
-  - Exemplo: Correr, mas parar após dois minutos. Meditar, mas parar após dois minutos.
-  - **Quase todo objetivo maior pode ser transformado em um comportamento de dois minutos.**
+### 4.1 Use Reforços
+
+Recompense-se imediatamente após completar um hábito. Após terminar uma corrida, permita-se um tempo nas redes sociais. A recompensa imediata ajuda a reforçar o comportamento positivo.
+
+### 4.2 Transforme “Fazer Nada” em Algo Agradável
+
+Torne a evitação visível. Abra uma conta poupança e a nomeie com algo que deseja comprar, como “Jaqueta de Couro”. Sempre que conseguir evitar gastar em alguma coisa, coloque a mesma quantia de dinheiro na conta. Por exemplo, se você evitar gastar R$20,00 em café da manhã ou R$30,00 em uma assinatura de streaming, transfira esse valor para a conta. Isso cria um programa de fidelidade para você, tornando a economia mais gratificante do que a privação.
+
+### 4.3 Use um Rastreador de Hábitos
+
+Monitore seus hábitos e registre seu progresso. Utilize um calendário ou um aplicativo de rastreamento de hábitos para acompanhar as datas em que você completou o hábito e visualize seu progresso. Isso ajuda a manter a motivação e a visualização do sucesso.
+
+### 4.4 Nunca Quebre um Hábito Duas Vezes
+
+Nunca se prenda à ideia de tudo ou nada. O objetivo é vencer pela maioria, não seguir uma rotina perfeita. Se você falhar em seguir um hábito, não deixe que isso se torne um padrão. Retome sua rotina o mais rápido possível e continue progredindo. Não deixe um dia de falha lhe fazer perder tudo.
